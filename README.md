@@ -1,2 +1,2 @@
-# Django-CRM-main
+# Django-CRM
 Customer Relationship Management
